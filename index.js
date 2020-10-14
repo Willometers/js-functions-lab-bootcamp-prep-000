@@ -5,10 +5,10 @@ var days = 20, 120
 function happyHolidays() {
   return(`Happy holidays!`)
 }
-function happyHolidaysTo() {
+function happyHolidaysTo(you) {
   return(`Happy holidays ${name}!`)
 }
-function happyHolidaysTo() {
+function happyHolidaysTo(Independence Day, you) {
   return(`Happy holidays ${name}!`)
 }
 function happyCustomHolidayTo() {
