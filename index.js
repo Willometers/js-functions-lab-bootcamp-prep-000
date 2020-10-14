@@ -1,23 +1,23 @@
 var name = "you"
 
 function happyHolidays() {
-  console.log(`Happy holidays!`)
+  return(`Happy holidays!`)
 }
 function happyHolidaysTo() {
-  console.log(`Happy holidays ${name}!`)
+  return(`Happy holidays ${name}!`)
 }
 function happyHolidaysTo() {
-  console.log(`Happy holidays ${name}!`)
+  return(`Happy holidays ${name}!`)
 }
 function happyCustomHolidayTo() {
-  console.log(`Happy ${holiday} ${name}!`)
+  return(`Happy ${holiday} ${name}!`)
 }
 function happyCustomHolidayTo() {
-  console.log(`Happy ${holiday} ${name}!`)
+  return(`Happy ${holiday} ${name}!`)
 }
 function holidayCountdown() {
-  console.log(`It\'s ${days} days until ${holiday}!`)
+  return(`It\'s ${days} days until ${holiday}!`)
 }
 function holidayCountdown() {
-  console.log(`It\'s ${days} days until ${holiday}!`)
+  return(`It\'s ${days} days until ${holiday}!`)
 }
