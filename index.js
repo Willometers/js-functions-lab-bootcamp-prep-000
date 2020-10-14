@@ -2,10 +2,10 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 function happyHolidaysTo('you') {
- return "Happy holidays, ${name}!"
+ return '"Happy holidays, ${name}!"`
 }
 function happyHolidaysTo('everyone') {
- return "Happy holidays, ${name}!"
+ return `"Happy holidays, ${name}!"`
 }
 function hhappyCustomHolidayTo('Independence Day', 'you') {
   return `Happy ${holiday}, ${name}!`
