@@ -1,4 +1,4 @@
-var name = "to, you"
+var name = "you"
 var holiday = "Mother\'s Day!"
 var days = 20
 
