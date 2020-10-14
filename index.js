@@ -4,7 +4,7 @@ function happyHolidays() {
 function happyHolidaysTo('you') {
  return `Happy holidays ${name}!`
 }
-function happyHolidaysTo('Independence Day', 'you') {
+function hhappyCustomHolidayTo('Independence Day', 'you') {
   return `Happy ${holiday}, ${name}!`
 }
 function holidayCountdown(20, "Mother's Day") {
