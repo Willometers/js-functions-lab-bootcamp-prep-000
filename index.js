@@ -1,7 +1,3 @@
-var name = "you", "everyone"
-var holiday = "Independence Day", "Mother's Day", "Father's Day"
-var day = 20, 120
-
 function happyHolidays() {
   return `Happy holidays!`
 }
