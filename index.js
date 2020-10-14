@@ -13,9 +13,9 @@ function happyCustomHolidayTo('Independence Day', 'you') {
 function happyCustomHolidayTo('New Year', 'everyone') {
   return 'Happy ${holiday} ${name}!'
 }
-function holidayCountdown("Mother's Day", 20) {
+function holidayCountdown(20, "Mother's Day") {
   return 'It\'s ${days} days until ${holiday}!'
 }
-function holidayCountdown("Father's Day", 120) {
+function holidayCountdown(120, "Father's Day") {
   return 'It\'s ${days} days until ${holiday}!'
 }
