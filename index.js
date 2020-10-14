@@ -18,3 +18,6 @@ function happyCustomHolidayTo('New Year', 'everyone') {
 function holidayCountdown() {
   return 'It\'s ${days} days until ${holiday}!'
 }
+function holidayCountdown() {
+  return 'It\'s ${days} days until ${holiday}!'
+}
