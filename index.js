@@ -5,21 +5,21 @@ var day = 20, 120
 function happyHolidays() {
   return 'Happy holidays!'
 }
-function happyHolidaysTo('you') {
+function happyHolidaysTo() {
   return 'Happy holidays ${name}!'
 }
-function happyHolidaysTo('everyone') {
+function happyHolidaysTo() {
   return 'Happy holidays ${name}!'
 }
-function happyCustomHolidayTo('Independence Day', 'you') {
+function happyCustomHolidayTo() {
   return 'Happy ${holiday} ${name}!'
 }
-function happyCustomHolidayTo('New Year', 'everyone') {
+function happyCustomHolidayTo() {
   return 'Happy ${holiday} ${name}!'
 }
-function holidayCountdown(20, "Mother's Day") {
+function holidayCountdown() {
   return 'It\'s ${days} days until ${holiday}!'
 }
-function holidayCountdown(120, "Father's Day") {
+function holidayCountdown() {
   return 'It\'s ${days} days until ${holiday}!'
 }
