@@ -1,5 +1,4 @@
 var name = "you"
-var holiday = 
 
 function happyHolidays() {
   console.log `Happy holidays!`
