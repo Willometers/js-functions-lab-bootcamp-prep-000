@@ -12,7 +12,7 @@ function happyHolidaysTo('everyone') {
 function happyCustomHolidayTo('Independence Day', 'you') {
   return 'Happy ${holiday} ${name}!'
 }
-function happyCustomHolidayTo() {
+function happyCustomHolidayTo('New Year', 'everyone') {
   return 'Happy ${holiday} ${name}!'
 }
 function holidayCountdown() {
