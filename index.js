@@ -10,7 +10,7 @@ function hhappyCustomHolidayTo('Independence Day', 'you') {
 function hhappyCustomHolidayTo('New Year', 'everyone') {
   return `Happy ${holiday}, ${name}!`
 }
-function holidayCountdown(20, "Mother's Day") {
+function holidayCountdown("Mother's Day", 20) {
   return `It's ${days} days until ${holiday}!`
 }
 function holidayCountdown(120, "Father's Day") {
