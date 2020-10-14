@@ -1,5 +1,3 @@
-var name = "you"
-
 function happyHolidays() {
   return 'Happy holidays!'
 }
