@@ -13,6 +13,6 @@ function hhappyCustomHolidayTo('New Year', 'everyone') {
 function holidayCountdown("Mother's Day", 20) {
   return `It's ${days} days until ${holiday}!`
 }
-function holidayCountdown(120, "Father's Day") {
+function holidayCountdown("Father's Day", 120) {
   return `It's ${days} days until ${holiday}!`
 }
