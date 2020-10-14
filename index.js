@@ -1,6 +1,6 @@
-var name = 'to, you'
-var holiday = 'Mother\'s Day!'
-var days = '20'
+var name = "to, you"
+var holiday = "Mother\'s Day!"
+var days =
 
 function happyHolidays() {
   return 'Happy holidays!'
